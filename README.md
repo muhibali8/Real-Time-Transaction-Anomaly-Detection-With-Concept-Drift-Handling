@@ -82,7 +82,7 @@ The system combines:
 
 ### 2- Install dependencies
 ```bash
-  pip install --upgrade pip
+  python -m pip install --upgrade pip
   pip install streamlit pandas numpy plotly river
 ```
 
@@ -165,3 +165,4 @@ Junior Machine Learning Engineer
 
 
 Focus: Applied ML & Real-world Problems
+
